@@ -14,6 +14,16 @@
 
 ## Crafting amazing user onboarding using dynamic marquees in Jetpack Compose. Enhanced UX, simplified setup.
 
+### Have a look here 
+
+<p align="center">
+  <a href="https://github.com/thekaailashsharma/Marque-Compose/assets/61358755/e12b95f5-f478-43ef-93b9-37b957c79815">
+    <img src="https://github.com/thekaailashsharma/Marque-Compose/assets/61358755/e12b95f5-f478-43ef-93b9-37b957c79815" alt="HiewAF9.md.png" border="0">
+  </a
+</p>
+
+
+
 ### Tech Stack
 | Name | Description |
 | --- | --- |
